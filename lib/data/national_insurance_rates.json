@@ -1,0 +1,86 @@
+{
+    "year2009_10": {
+        "class1" : [
+            {
+                "rate" : 11,
+                "start" : 110,
+                "end" : 844
+            },
+            {
+                "rate" : 1,
+                "start" : 844,
+                "end" : null
+            }
+        ]
+    },
+    "year2010_11": {
+        "class1" : [
+            {
+                "rate" : 11,
+                "start" : 110,
+                "end" : 844
+            },
+            {
+                "rate" : 1,
+                "start" : 844,
+                "end" : null
+            }
+        ]
+    },
+    "year2011_12": {
+        "class1" : [
+            {
+                "rate" : 12,
+                "start" : 139,
+                "end" : 817
+            },
+            {
+                "rate" : 2,
+                "start" : 817,
+                "end" : null
+            }
+        ]
+    },
+    "year2012_13": {
+        "class1" : [
+            {
+                "rate" : 12,
+                "start" : 107,
+                "end" : 817
+            },
+            {
+                "rate" : 2,
+                "start" : 817,
+                "end" : null
+            }
+        ]
+    },
+    "year2013_14": {
+        "class1" : [
+            {
+                "rate" : 12,
+                "start" : 109,
+                "end" : 797
+            },
+            {
+                "rate" : 2,
+                "start" : 797,
+                "end" : null
+            }
+        ]
+    },
+    "year2014_15": {
+        "class1" : [
+            {
+                "rate" : 12,
+                "start" : 111,
+                "end" : 805
+            },
+            {
+                "rate" : 2,
+                "start" : 805,
+                "end" : null
+            }
+        ]
+    }
+}
